@@ -115,3 +115,8 @@ p {
   font-size: 16px;
   line-height: 30px;
 }
+
+.contact-me {
+  background: var(--secondary-color);
+  padding: 20px 20px;
+}
